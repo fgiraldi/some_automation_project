@@ -1,0 +1,8 @@
+{
+    "name": "some_automation_project",
+    "version": "1.0.0",
+    "description": "Integration testing for aqa_framework v1",
+    "dependencies": {
+        "cucumber": "latest"
+    }
+}
