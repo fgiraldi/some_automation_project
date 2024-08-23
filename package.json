@@ -2,7 +2,6 @@
     "name": "some_automation_project",
     "version": "1.0.0",
     "description": "Integration testing for aqa_framework v1",
-    "type": "module",
     "dependencies": {
         "@cucumber/cucumber": "latest",
         "@cucumber/pretty-formatter": "1.0.1",
