@@ -1,0 +1,3 @@
+[submodule "aqa-framework"]
+	path = aqa-framework
+	url = https://github.com/ProctorU/aqa-framework
