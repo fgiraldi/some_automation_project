@@ -1,3 +1,4 @@
+@google
 Feature: Google Home Page
 
     Scenario: Navigate with local sitemap
